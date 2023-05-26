@@ -58,4 +58,5 @@ Finally, add `kaomoji` to your `systemPackages`:
           ...
       ];
 
-### 
+## License
+[MIT](https://raw.githubusercontent.com/OleMussmann/kaomoji/main/LICENSE)
