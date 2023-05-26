@@ -2,6 +2,8 @@
 
 This is a nix flake of the [kaomoji generator](https://charm.sh/blog/kamoji-generator/), taken from the [charmbracelet repo](https://github.com/charmbracelet/gum/blob/main/examples/kaomoji.sh).
 
+![kaomoji](https://github.com/OleMussmann/kaomoji/assets/14004859/0602fb62-c987-42fc-8fd1-ccb703bf5ffe)
+
 ## API Key Needed!
 [mods](https://github.com/charmbracelet/mods) is the engine that fetches query
 results from the OpenAI API. You need an account an [account](https://platform.openai.com/signup?launch)
